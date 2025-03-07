@@ -3,6 +3,7 @@
     "policy_content": {
       "Statement": [
         {
+
           "Action": [
             "logs:CreateLogGroup",
             "logs:CreateLogStream",
