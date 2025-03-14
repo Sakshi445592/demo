@@ -1,0 +1,16 @@
+account_id: '376129861747'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-6620/e521401d/task11
+expiration: 2025-03-14 10:51:46.157711+00:00
+extended_prefix_mode: true
+project_path: C:\Users\sakshi_s\Desktop\Newfolder\demo
+region: eu-west-1
+resources_prefix: cmtr-e521401d-
+tags:
+  run_id: JAP-08
+  run_type: stm
+  type: user
+  user_id: e521401d
+temp_aws_access_key_id: ASIAVPEYWHBZX7GBW6KA
+temp_aws_secret_access_key: N652qrATUzbDVoe/V3L57BlJX4ohg7mdyPszvyOH
+temp_aws_session_token: IQoJb3JpZ2luX2VjEKL//////////wEaCXVzLWVhc3QtMSJGMEQCIG1eQWqu4YDSMj+ktm+E4Ersr5F+iYNrrncYnC3el0v0AiBrw/Z+cCX3Z8xXvmO/6nufLxM25n/YOM0yr59JeiUn4yraAgjr//////////8BEAAaDDM3NjEyOTg2MTc0NyIMljB64i3GNLvZSXwfKq4CBzATmE0wfE57QdoVG8L5XumBb1qxX7tsGMHdtHMtRT1W9wtFsGs1CdTySfSHL+uEZqmYLIYI6FwD7kHMHUTYo69V1OgRO/x+m5EzfVe4Fj6tlOW2XqICmgTWDZsSCy0MP9XSfzd2FyHCuw43oG93wH9xFG/QqfFm/tIJfij64UFZw1jRDKEmDGhuQ/LKkHozSB+4NRcPZ+LPVi/oFliGgiVzdOW4+PiqA69GVeOn2IUnZJvde9JUTo+nLIr97ZYZ/nSaegnsEmiKuUqjYY2bDQxKSpm3zYGoKat1INqOMleu6SBpkBQ0ZDcXmkmc4pkUP4/xcKngCXGXIjQOKqz2U8r+AwrpIznkYduc2OKz/KOZhOX+HedI57ar8qkim2gim/peBVMzEY33DS1QfSww8vzPvgY6ngEjtIu3mIHBBbS15slZR0H3wwf1CWwRCcR+vHTtslY528DORoQIUdfKNSRv4hR2pDg2PSXyC9O5MNGO5Df35aIGdKurJzfKlAFYjxb/jHCuZk6QfihFriyiUkEKihHZiB0AnqhWhVkRT0uhh6ARzlx+Azl6qo5DtSEAy3n66xaihyJVIzleNx1T6fKWEuNjKDE9T2hfKulyhIKH+8XjhA==
+use_temp_creds: false
